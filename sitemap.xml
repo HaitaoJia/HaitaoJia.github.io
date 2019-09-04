@@ -3,77 +3,77 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/about/</loc>
+    <loc>https://haitaojia.github.io/about/</loc>
     <lastmod>2019-09-04T00:36:30+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://haitaojia.github.io/</loc>
     <lastmod>2019-09-04T02:21:50+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/others/</loc>
+    <loc>https://haitaojia.github.io/others/</loc>
     <lastmod>2019-09-04T02:21:50+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/others/others/</loc>
+    <loc>https://haitaojia.github.io/others/others/</loc>
     <lastmod>2019-09-04T02:21:50+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/post/</loc>
+    <loc>https://haitaojia.github.io/post/</loc>
     <lastmod>2019-09-04T02:20:07+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/2019/09/04/second/</loc>
+    <loc>https://haitaojia.github.io/2019/09/04/second/</loc>
     <lastmod>2019-09-04T02:20:07+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/machine-learning/cv/</loc>
+    <loc>https://haitaojia.github.io/machine-learning/cv/</loc>
     <lastmod>2019-09-04T02:17:00+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/machine-learning/</loc>
+    <loc>https://haitaojia.github.io/machine-learning/</loc>
     <lastmod>2019-09-04T02:17:00+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/machine-learning/nlp/</loc>
+    <loc>https://haitaojia.github.io/machine-learning/nlp/</loc>
     <lastmod>2019-09-04T01:46:41+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/machine-learning/ml/</loc>
+    <loc>https://haitaojia.github.io/machine-learning/ml/</loc>
     <lastmod>2019-09-04T01:37:55+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/beijing/</loc>
+    <loc>https://haitaojia.github.io/tags/beijing/</loc>
     <lastmod>2019-09-03T23:43:48+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/2019/09/03/beijing-news/</loc>
+    <loc>https://haitaojia.github.io/2019/09/03/beijing-news/</loc>
     <lastmod>2019-09-03T23:43:48+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/news/</loc>
+    <loc>https://haitaojia.github.io/tags/news/</loc>
     <lastmod>2019-09-03T23:43:48+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://haitaojia.github.io/tags/</loc>
     <lastmod>2019-09-03T23:43:48+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://haitaojia.github.io/categories/</loc>
   </url>
   
 </urlset>

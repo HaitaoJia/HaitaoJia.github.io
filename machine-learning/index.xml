@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Machine-learnings on flying bird</title>
-    <link>http://example.org/machine-learning/</link>
+    <link>https://haitaojia.github.io/machine-learning/</link>
     <description>Recent content in Machine-learnings on flying bird</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>All rights reserved - 2019</copyright>
     <lastBuildDate>Wed, 04 Sep 2019 02:17:00 +0800</lastBuildDate>
     
-	<atom:link href="http://example.org/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://haitaojia.github.io/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>CV</title>
-      <link>http://example.org/machine-learning/cv/</link>
+      <link>https://haitaojia.github.io/machine-learning/cv/</link>
       <pubDate>Wed, 04 Sep 2019 02:17:00 +0800</pubDate>
       
-      <guid>http://example.org/machine-learning/cv/</guid>
+      <guid>https://haitaojia.github.io/machine-learning/cv/</guid>
       <description>cv is called computer vsion</description>
     </item>
     
     <item>
       <title>NLP</title>
-      <link>http://example.org/machine-learning/nlp/</link>
+      <link>https://haitaojia.github.io/machine-learning/nlp/</link>
       <pubDate>Wed, 04 Sep 2019 01:46:41 +0800</pubDate>
       
-      <guid>http://example.org/machine-learning/nlp/</guid>
+      <guid>https://haitaojia.github.io/machine-learning/nlp/</guid>
       <description>nlp is call Natural Language Processing</description>
     </item>
     
     <item>
       <title>ML</title>
-      <link>http://example.org/machine-learning/ml/</link>
+      <link>https://haitaojia.github.io/machine-learning/ml/</link>
       <pubDate>Wed, 04 Sep 2019 01:37:55 +0800</pubDate>
       
-      <guid>http://example.org/machine-learning/ml/</guid>
+      <guid>https://haitaojia.github.io/machine-learning/ml/</guid>
       <description>ml is all call machine learning svm, lr, xgboost</description>
     </item>
     
