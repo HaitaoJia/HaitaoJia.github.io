@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Others on flying bird</title>
+    <link>http://example.org/others/</link>
+    <description>Recent content in Others on flying bird</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>All rights reserved - 2019</copyright>
+    <lastBuildDate>Wed, 04 Sep 2019 02:21:50 +0800</lastBuildDate>
+    
+	<atom:link href="http://example.org/others/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Others</title>
+      <link>http://example.org/others/others/</link>
+      <pubDate>Wed, 04 Sep 2019 02:21:50 +0800</pubDate>
+      
+      <guid>http://example.org/others/others/</guid>
+      <description>this is other file</description>
+    </item>
+    
+  </channel>
+</rss>

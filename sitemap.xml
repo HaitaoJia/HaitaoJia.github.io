@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://example.org/about/</loc>
+    <lastmod>2019-09-04T00:36:30+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/</loc>
+    <lastmod>2019-09-04T02:21:50+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/others/</loc>
+    <lastmod>2019-09-04T02:21:50+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/others/others/</loc>
+    <lastmod>2019-09-04T02:21:50+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/</loc>
+    <lastmod>2019-09-04T02:20:07+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/2019/09/04/second/</loc>
+    <lastmod>2019-09-04T02:20:07+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/machine-learning/cv/</loc>
+    <lastmod>2019-09-04T02:17:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/machine-learning/</loc>
+    <lastmod>2019-09-04T02:17:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/machine-learning/nlp/</loc>
+    <lastmod>2019-09-04T01:46:41+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/machine-learning/ml/</loc>
+    <lastmod>2019-09-04T01:37:55+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/beijing/</loc>
+    <lastmod>2019-09-03T23:43:48+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/2019/09/03/beijing-news/</loc>
+    <lastmod>2019-09-03T23:43:48+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/news/</loc>
+    <lastmod>2019-09-03T23:43:48+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/</loc>
+    <lastmod>2019-09-03T23:43:48+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/</loc>
+  </url>
+  
+</urlset>

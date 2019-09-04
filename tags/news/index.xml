@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>news on flying bird</title>
+    <link>http://example.org/tags/news/</link>
+    <description>Recent content in news on flying bird</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>All rights reserved - 2019</copyright>
+    <lastBuildDate>Tue, 03 Sep 2019 23:43:48 +0800</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/news/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Beijing News</title>
+      <link>http://example.org/2019/09/03/beijing-news/</link>
+      <pubDate>Tue, 03 Sep 2019 23:43:48 +0800</pubDate>
+      
+      <guid>http://example.org/2019/09/03/beijing-news/</guid>
+      <description>13岁北京男孩因作业离家出走3天！回家还得接着写作业
+ 13岁北京男孩因作业离家出走3天！回家还得接着写作业 13岁北京男孩因作业离家出走3天！回家还得接着写作业 13岁北京男孩因作业离家出走3天！回家还得接着写作业 13岁北京男孩因作业离家出走3天！回家还得接着写作业 13岁北京男孩因作业离家出走3天！回家还得接着写作业 13岁北京男孩因作业离家出走3天！回家还得接着写作业 13岁北京男孩因作业离家出走3天！回家还得接着写作业 13岁北京男孩因作业离家出走3天！回家还得接着写作业 13岁北京男孩因作业离家出走3天！回家还得接着写作业 13岁北京男孩因作业离家出走3天！回家还得接着写作业 13岁北京男孩因作业离家出走3天！回家还得接着写作业
+ 新闻链接
+ 新闻链接：https://new.qq.com/omn/20190902/20190902A02ZU400.html
+ 新闻链接 新闻链接 新闻链接 新闻链接 腾讯新闻 新闻链接
+tencent news news link
+ news one  news one first news one second  news two  news two first news two second  new three
+ news three first news three second
+$ ./deploy.sh    tencent news tencent news tencent news tencent news tencent news tencent news</description>
+    </item>
+    
+  </channel>
+</rss>
